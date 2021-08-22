@@ -1,0 +1,2 @@
+# SCTInventory
+App de inventario
