@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\djack\\source\\repos\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj": {}
+    "C:\\Users\\djack\\Source\\Repos\\JackyrDC\\SCTInventory\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\djack\\source\\repos\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj": {
+    "C:\\Users\\djack\\Source\\Repos\\JackyrDC\\SCTInventory\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\djack\\source\\repos\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj",
+        "projectUniqueName": "C:\\Users\\djack\\Source\\Repos\\JackyrDC\\SCTInventory\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj",
         "projectName": "SCT Inventory",
-        "projectPath": "C:\\Users\\djack\\source\\repos\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj",
+        "projectPath": "C:\\Users\\djack\\Source\\Repos\\JackyrDC\\SCTInventory\\SCT Inventory\\SCT Inventory\\SCT Inventory.vbproj",
         "packagesPath": "C:\\Users\\djack\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\djack\\source\\repos\\SCT Inventory\\SCT Inventory\\obj\\",
+        "outputPath": "C:\\Users\\djack\\Source\\Repos\\JackyrDC\\SCTInventory\\SCT Inventory\\SCT Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
